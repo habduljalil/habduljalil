@@ -1,72 +1,67 @@
-# Hi, I'm Hussain Abduljalil
+# Hussain Abduljalil
 
-I build web applications and backend projects with a strong focus on Go, JavaScript, React, and GraphQL. Most of my recent work has been around full-stack projects, real-time systems, data visualization, and frontend interfaces.
+Full-stack developer focused on building clean, practical applications with Go, JavaScript, React, and GraphQL.
 
 ## About Me
 
-- Student developer building projects through Reboot01
-- Interested in backend systems, frontend UI, and API-driven apps
-- Working with Go, JavaScript, React, GraphQL, Docker, and SQL-based data flows
-- Currently improving full-stack architecture, authentication flows, and deployment workflows
+I am currently building projects through Reboot01 while improving my skills in full-stack development, backend systems, API integration, and frontend interfaces. My recent work includes dashboards, real-time applications, forum systems, and data-driven web projects.
+
+- Focused on scalable backend and frontend development
+- Interested in Go, JavaScript, React, GraphQL, Docker, and SQL workflows
+- Building public projects and improving documentation across my repositories
+
+## Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-habduljalil-181717?style=for-the-badge&logo=github)](https://github.com/habduljalil)
 
 ## Tech Stack
 
-### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-- Go
-- JavaScript
-- HTML
-- CSS
-
-### Frontend
-
-- React
-- Vite
-- Apollo Client
-- Recharts
-
-### Backend And Tools
-
-- GraphQL
-- Node.js
-- Docker
-- Git and GitHub
-- Gitea
-
-## Featured Projects
+## Featured Work
 
 ### GraphQL Dashboard
 
-A React dashboard that authenticates against the Reboot01 platform and visualizes profile progress, audits, XP, and technical skills.
+React dashboard connected to the Reboot01 GraphQL API for profile insights, audits, XP tracking, and skill visualization.
 
 ### Social Network
 
-A full-stack social platform project with backend and frontend work, including authentication and real-time features.
+Full-stack application with authentication, backend logic, and real-time interaction flows.
 
 ### Real-Time Forum
 
-A forum-style project focused on live interaction patterns and backend communication flows.
+Forum project centered on live communication patterns and structured backend integration.
 
 ### Groupie Tracker
 
-A data-driven application built around search, filtering, and structured information display.
+Search and visualization project built around structured data presentation and filtering.
 
-## What I'm Working On
+## GitHub Stats
 
-- Strengthening backend development with Go
-- Building cleaner React applications
-- Improving API integration and authentication handling
-- Shipping more polished projects to GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habduljalil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
-## GitHub Goals
+![GitHub Streak](https://streak-stats.demolab.com?user=habduljalil&theme=tokyonight&hide_border=true&border_radius=10)
 
-- Keep all academic and personal projects organized in GitHub repositories
-- Write cleaner documentation for each project
-- Build a stronger public portfolio with complete README files and deployable demos
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habduljalil&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
-## Contact
+## Current Focus
 
-- GitHub: https://github.com/habduljalil
+- Building stronger backend systems with Go
+- Improving React application structure and maintainability
+- Shipping cleaner documentation and more complete project portfolios
 
 ---
 
