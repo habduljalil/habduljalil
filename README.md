@@ -31,38 +31,6 @@ I am currently building projects through Reboot01 while improving my skills in f
 ![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-## Featured Work
-
-### GraphQL Dashboard
-
-React dashboard connected to the Reboot01 GraphQL API for profile insights, audits, XP tracking, and skill visualization.
-
-### Social Network
-
-Full-stack application with authentication, backend logic, and real-time interaction flows.
-
-### Real-Time Forum
-
-Forum project centered on live communication patterns and structured backend integration.
-
-### Groupie Tracker
-
-Search and visualization project built around structured data presentation and filtering.
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habduljalil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=habduljalil&theme=tokyonight&hide_border=true&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habduljalil&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
-## Current Focus
-
-- Building stronger backend systems with Go
-- Improving React application structure and maintainability
-- Shipping cleaner documentation and more complete project portfolios
-
 ---
 
 Thanks for visiting my profile.
